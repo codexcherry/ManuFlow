@@ -2,6 +2,9 @@
 
 A comprehensive manufacturing management application that enables businesses to create, track, and manage their end-to-end production process digitally. Built with Flask backend and React frontend.
 
+**Problem Statement - 1**  
+**codexcoders - 36 (Team Number oodo x nmit)**
+
 ## 🚀 Features
 
 ### Core Manufacturing Management
